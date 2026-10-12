@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
 API_KEY = "your_api_key"
-PASSWORD = "devigyoga@1808"
+PASSWORD = "your_workbench_password"
 cities = ["New York", "London", "Tokyo", "Sydney", "Mumbai"]
 rows = []
 
