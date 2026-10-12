@@ -2,7 +2,7 @@ import requests, pandas as pd
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
-API_KEY = "8e6f72355699849c09ce8ae298e8713d"
+API_KEY = "your_api_key"
 PASSWORD = "devigyoga@1808"
 cities = ["New York", "London", "Tokyo", "Sydney", "Mumbai"]
 rows = []
