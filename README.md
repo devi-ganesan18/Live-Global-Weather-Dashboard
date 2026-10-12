@@ -49,4 +49,4 @@ Last Updated, Latest Temp, Temp Anomaly
 - Data is collected only while the laptop is on. In production this would run on a cloud server.
 - Power BI refresh is manual (auto-refresh needs Power BI Service and a gateway).
 ## Author
-<Unga peru>
+<Devi Ganesan>
